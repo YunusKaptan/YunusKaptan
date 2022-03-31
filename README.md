@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 I am a student at Akademia Biznesu i Finansów Vistula
 - 📫 How to contact me: ynskptn06@gmail.com
 
-A sixth semester Computer Engineering undergraduate student at university with an interest in developing. Seeking an internship or job to apply my experience assisting a company's needs through C#, ASP.Net Core.
+A sixth semester Computer Engineering undergraduate student at university with an unending interest in software development. Seeking a place where he can apply his experience and assist his company's needs. Main technology stack: .Net, C#, ASP.Net Core, Angular.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yunus-kaptan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/YunusKaptan) 
@@ -35,16 +35,17 @@ A sixth semester Computer Engineering undergraduate student at university with a
 
 ![skills](https://user-images.githubusercontent.com/83038643/124290723-14585080-db54-11eb-822f-f5e6a18a2a46.gif)
 
-### C#, 
-### ASP.NET CORE 
-### SQL, 
-### ENTITY FRAMEWORK,
-### WEB API,
-### VISUAL STUDIO, 
-### VERSION CONTROL(GIT, GITHUB), 
-### ANGULAR, 
-### HTML/CSS, 
-### JAVASCRIPT 
+### Multi Layer Application, 
+### REST API,
+### Clean Code, 
+### Version Control(Git - GitHub),
+### Single Page Application,
+### ASP NET CORE, 
+### SQL - MSSQL, 
+### JavaScript, 
+### Angular, 
+### Entity Framework
+ 
 
 ## COURSES
 
@@ -58,7 +59,7 @@ I learned basic C# and advanced C# in this course. The course covered ADO.NET, E
 
 ## Software Developer Training Camp (C# + ANGULAR)
 
-I have successfully completed this 21-day camp. Of course, the camp did not last 21 days, it took about 4 months. In this camp I gained a lot of experience about ASP.NET CORE, Angular, C#. I had the opportunity to learn by applying all the work done during this course. During the camp, I progressed through a project and did 2 projects. I had the opportunity to learn by applying all the work done during this course.
+A complete course that takes you from the beginning level and makes you ready for any software career. Focuses on best practices, clean code and quality code.
 
 ### WORK EXPERIENCES
 
@@ -67,9 +68,15 @@ I have successfully completed this 21-day camp. Of course, the camp did not last
 
 
 
-## Asis System Limited Liability Company(Intern Student) | October 2019 to December 2019 Warsaw, Poland
+## Asis System LLC || October 2019 - December 2019
 
-This company I worked for was selling products through online marketing in 2019. followed the product sales in this company through Excel. As a beginner to Polish, I had the opportunity to practice my language skills with the staff there.
+Had the opportunity to experience E-Commerce platform from product sales to integration of software patches.
+
+## Rais Games || March 2021 - May 2021
+
+Was able to learn and implement mini 2D games that were
+meant to produce high value returns. Mainly worked with C#
+and Unity.
 
 
 
@@ -97,9 +104,12 @@ Language Course (Polish)
 September 2018 - June 2019
 
 
-## Vistula University
+## Bachelor of Computer Science || 2018 - Present
 
-Bachelor of Science in Computer Science 2019 - present
+Actively participated in lessons and continue to do so with
+excellent grades. Also part of Google Students Developer
+Club where organizes software development events.
+
 
 
 
