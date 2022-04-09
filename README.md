@@ -35,6 +35,7 @@ A sixth semester Computer Engineering undergraduate student at university with a
 
 ![skills](https://user-images.githubusercontent.com/83038643/124290723-14585080-db54-11eb-822f-f5e6a18a2a46.gif)
 
+### C#
 ### Multi Layer Application, 
 ### REST API,
 ### Clean Code, 
