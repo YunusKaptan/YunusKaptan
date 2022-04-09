@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working on SOFTWARE DEVELOPER
 - 👨‍🎓 I am a student at Akademia Biznesu i Finansów Vistula
-- 📫 How to contact me: ynskptn06@gmail.com
+- 📫 How to contact me: yunuskaptanofficial@gmail.com
 
 A sixth semester Computer Engineering undergraduate student at university with an unending interest in software development. Seeking a place where he can apply his experience and assist his company's needs. Main technology stack: .Net, C#, ASP.Net Core, Angular.
 
