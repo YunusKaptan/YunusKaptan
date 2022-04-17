@@ -42,7 +42,8 @@ A sixth semester Computer Engineering undergraduate student at university with a
 ### Version Control(Git - GitHub),
 ### Single Page Application,
 ### ASP NET CORE, 
-### SQL - MSSQL, 
+### SQL - MSSQL,
+### TypeScript
 ### JavaScript, 
 ### Angular, 
 ### Entity Framework
