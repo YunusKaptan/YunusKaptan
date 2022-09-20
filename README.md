@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 I am a student at Akademia Biznesu i Finansów Vistula
 - 📫 How to contact me: yunuskaptanofficial@gmail.com
 
-A sixth semester Computer Engineering undergraduate student at university with an unending interest in software development. Seeking a place where he can apply his experience and assist his company's needs. Main technology stack: .Net, C#, ASP.Net Core, Angular.
+A last semester Computer Engineering undergraduate student at university with an unending interest in software development. Seeking a place where he can apply his experience and assist his company's needs. Main technology stack: .Net, C#, ASP.Net Core, Angular.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yunus-kaptan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/YunusKaptan) 
