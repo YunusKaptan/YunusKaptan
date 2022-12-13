@@ -65,6 +65,11 @@ needs of the company I work for.
 
 I learned basic C# and advanced C# in this course. The course covered ADO.NET, Entity Framework, Design Pattern, Enterprise architecture. While following these lessons, I developed myself in C# by applying them in small projects.
 
+
+## Software Developer Training Camp (C# + ANGULAR)
+
+A complete course that takes you from the beginning level and makes you ready for any software career. Focuses on best practices, clean code and quality code.
+
 An advanced course that covers topics such as AOP(aspect
 oriented programming), dependency injection, SOLID principles,
 design patterns, database relations, SPA(single page
@@ -83,26 +88,28 @@ MSSQL(Microsoft SQL Server).
 Autofac dependency injection container was used to resolve the
 application's dependencies
 
-## Software Developer Training Camp (C# + ANGULAR)
-
-A complete course that takes you from the beginning level and makes you ready for any software career. Focuses on best practices, clean code and quality code.
-
 ### WORK EXPERIENCES
 
 
 ![experience](https://user-images.githubusercontent.com/83038643/124290097-55039a00-db53-11eb-9241-b3f458ef6ed2.gif)
 
 
-
-## Asis System LLC || October 2019 - December 2019
-
-Had the opportunity to experience E-Commerce platform from product sales to integration of software patches.
-
 ## Rais Games || March 2021 - May 2021
 
 Was able to learn and implement mini 2D games that were
 meant to produce high value returns. Mainly worked with C#
 and Unity.
+
+Implemented 2D games that were meant to produce high value
+returns.
+
+Worked on a complicated player mechanics that was based on
+runner games.
+
+Multiple demo runner game prototypes were created and
+submitted for testing.
+
+Mainly worked with C# and Unity.
 
 
 
