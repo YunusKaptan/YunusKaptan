@@ -35,13 +35,18 @@ A last semester Computer Engineering undergraduate student at university with an
 
 ![skills](https://user-images.githubusercontent.com/83038643/124290723-14585080-db54-11eb-822f-f5e6a18a2a46.gif)
 
-### C#             ### Multi Layer Application 
-### REST API       ### Clean Code 
+### C#             
+### Multi Layer Application 
+### REST API       
+### Clean Code 
 ### Version Control(Git - GitHub)
 ### Single Page Application
-### ASP NET CORE   ### Clean Code,  
-### SQL - MSSQL    ### TypeScript
-### JavaScript     ### Angular
+### ASP NET CORE   
+### Clean Code,  
+### SQL - MSSQL    
+### TypeScript
+### JavaScript     
+### Angular
 ### Entity Framework
 
  
