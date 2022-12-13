@@ -35,18 +35,15 @@ A last semester Computer Engineering undergraduate student at university with an
 
 ![skills](https://user-images.githubusercontent.com/83038643/124290723-14585080-db54-11eb-822f-f5e6a18a2a46.gif)
 
-### C#
-### Multi Layer Application, 
-### REST API,
-### Clean Code, 
-### Version Control(Git - GitHub),
-### Single Page Application,
-### ASP NET CORE, 
-### SQL - MSSQL,
-### TypeScript
-### JavaScript, 
-### Angular, 
+### C#             ### Multi Layer Application 
+### REST API       ### Clean Code 
+### Version Control(Git - GitHub)
+### Single Page Application
+### ASP NET CORE   ### Clean Code,  
+### SQL - MSSQL    ### TypeScript
+### JavaScript     ### Angular
 ### Entity Framework
+
  
 
 ## COURSES
@@ -58,6 +55,24 @@ A last semester Computer Engineering undergraduate student at university with an
 ## C# Language Course
 
 I learned basic C# and advanced C# in this course. The course covered ADO.NET, Entity Framework, Design Pattern, Enterprise architecture. While following these lessons, I developed myself in C# by applying them in small projects.
+
+An advanced course that covers topics such as AOP(aspect
+oriented programming), dependency injection, SOLID principles,
+design patterns, database relations, SPA(single page
+applications) and many more.
+
+2 demo projects completed.
+
+Worked with C# and Angular (Typescript).
+
+Projects were created in accordance with the SOLID principles
+and Clean code.
+
+Handled database connection with Entity Framework to
+MSSQL(Microsoft SQL Server).
+
+Autofac dependency injection container was used to resolve the
+application's dependencies
 
 ## Software Developer Training Camp (C# + ANGULAR)
 
