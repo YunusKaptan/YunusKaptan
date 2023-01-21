@@ -1,6 +1,5 @@
 ### Hi there, I m Yunus Kaptan 👋
 
-### PROFILE
 
 - 🔭 I am currently working on SOFTWARE DEVELOPER
 - 👨‍🎓 I am a student at Akademia Biznesu i Finansów Vistula
