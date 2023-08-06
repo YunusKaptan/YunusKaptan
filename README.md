@@ -11,6 +11,8 @@ software development make me a good candidate for roles in software engineering.
 
 https://leetcode.com/kaptan97/
 
+https://www.codewars.com/users/YunusKaptan
+
 
 
 
