@@ -9,6 +9,8 @@ where I can apply my experience to help meet the company's needs. I m interested
 Angular, which makes me a valuable asset to any team looking to develop software solutions. My skills and passion for
 software development make me a good candidate for roles in software engineering.
 
+https://leetcode.com/kaptan97/
+
 
 
 
