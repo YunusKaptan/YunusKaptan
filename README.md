@@ -2,7 +2,7 @@
 
 
 - 🔭 I am currently working on SOFTWARE DEVELOPER
-- 📫 How to contact me: yunuskaptanofficial@gmail.com
+- 📫 How to contact me: kaptanyunus97@gmail.com
 
 As a recent Computer Engineering graduate, I am intensely interested in software development. I am seeking a position
 where I can apply my experience to help meet the company's needs. I m interested in .Net, C#, ASP.Net Core, and
